@@ -2,7 +2,7 @@
 
 ## **Нейминг**
 
-1. [Следуйте правилам нейминга](https://github.com/itmo-is-dev/.github/blob/master/codestyle.md#naming), используйте
+1. [Следуйте правилам нейминга](https://github.com/itmo-is-dev/.github/blob/master/profile/codestyle/naming.md), используйте
    семантику
 2. Не использовать сокращения
 3. Использовать общепринятые английские термины для нейминга классов/свойств/методов
@@ -25,7 +25,7 @@
 
 ## **Do:**
 
-1. [Следуйте кодстайлу](https://github.com/itmo-is-dev/.github/blob/master/codestyle.md#general)
+1. [Следуйте кодстайлу](https://github.com/itmo-is-dev/.github/blob/master/profile/README.md)
 2. Следуйте
    правилам [семантического нейминга комитов](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 3. Использовать конструкторы для создания полностью инициализированного объекта
