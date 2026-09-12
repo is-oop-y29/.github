@@ -14,3 +14,7 @@
 ## Лекции
 
 - [Лекция 1 – Основы ООП](./lectures/1-oop-basics-presentation.pdf)
+
+## Лабораторные
+
+- [Лабораторная 1](./labs/lab-1.md)
