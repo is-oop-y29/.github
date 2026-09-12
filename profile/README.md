@@ -14,6 +14,7 @@
 ## Лекции
 
 - [Лекция 1 – Основы ООП](./lectures/1-oop-basics-presentation.pdf)
+- [Лекция 2 – SOLID и GRASP](./lectures/2-solid-grasp-presentation.pdf)
 
 ## Лабораторные
 
