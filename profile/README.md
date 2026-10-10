@@ -16,6 +16,7 @@
 - [Лекция 1 – Основы ООП](./lectures/1-oop-basics-presentation.pdf)
 - [Лекция 2 – SOLID и GRASP](./lectures/2-solid-grasp-presentation.pdf)
 - [Лекция 3 – Структурные паттерны](lectures/3-structural-patterns-presentation.pdf)
+- [Лекция 4 – Порождающие паттерны](lectures/4-creational-patterns.pdf)
 
 ## Лабораторные
 
