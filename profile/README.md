@@ -17,6 +17,7 @@
 - [Лекция 2 – SOLID и GRASP](./lectures/2-solid-grasp-presentation.pdf)
 - [Лекция 3 – Структурные паттерны](lectures/3-structural-patterns-presentation.pdf)
 - [Лекция 4 – Порождающие паттерны](lectures/4-creational-patterns.pdf)
+- [Лекция 5 – Поведенческие паттерны](lectures/5-behavioural-patterns-presentation.pdf)
 
 ## Лабораторные
 
