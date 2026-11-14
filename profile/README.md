@@ -18,6 +18,7 @@
 - [Лекция 3 – Структурные паттерны](lectures/3-structural-patterns-presentation.pdf)
 - [Лекция 4 – Порождающие паттерны](lectures/4-creational-patterns.pdf)
 - [Лекция 5 – Поведенческие паттерны](lectures/5-behavioural-patterns-presentation.pdf)
+- [Лекция 6 – Комбинации паттернов](lectures/6-pattern-combinations-presentation.pdf)
 
 ## Лабораторные
 
